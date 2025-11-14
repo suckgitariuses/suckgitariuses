@@ -1,6 +1,6 @@
 <div align="center">
 
-# Abdullah Shamil Basayev  
+# Adinda Mirza Devani
 **Network & Cybersecurity Enthusiast**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in//](https://www.linkedin.com/in/adinda-mirza-devani-38a609333/))
