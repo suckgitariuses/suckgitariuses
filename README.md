@@ -11,7 +11,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me 👨‍💻
 
 Hiii! I'm Adinda Mirza Devani, but most people just call me funi.
 I'm passionate about understanding how systems, networks, and connected devices work — and how to keep them secure.
