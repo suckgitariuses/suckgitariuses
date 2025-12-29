@@ -1,9 +1,9 @@
 <div align="center">
 
-# Adinda Mirza Devani
-**Network & Cybersecurity Enthusiast**  
+# 👋 Hi, I'm Adinda Mirza Devani
+### Network & Cybersecurity Enthusiast  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in//](https://www.linkedin.com/in/adinda-mirza-devani-38a609333/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adinda-mirza-devani-38a609333/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/suckgitariuses)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/dndvni_/)
 
@@ -11,27 +11,40 @@
 
 ---
 
-## About Me 👨‍💻
+## 🧠 About Me
 
-Hiii! I'm Adinda Mirza Devani, but most people just call me funi.
-I'm passionate about understanding how systems, networks, and connected devices work — and how to keep them secure.
-From network fundamentals to cybersecurity practices and early steps into IoT, I enjoy exploring how technology can be both efficient and safe.
+Hi! I'm **Adinda Mirza Devani**, but most people call me **Funi**.  
+I'm highly interested in how **networks, systems, and connected devices** work — and more importantly, how to **secure** them.
+
+I enjoy learning and exploring:
+- 🌐 Computer Networks  
+- 🔐 Cybersecurity fundamentals  
+- 📡 IoT & system integration  
+- 🧪 Hands-on labs & technical projects  
+
+Currently, I’m focusing on building strong fundamentals while gradually diving deeper into real-world security practices.
+
+---
+
+## 🚀 Tech Interests
+
+- Networking (Routing, Subnetting, Network Design)
+- Cybersecurity (Basic Defense, System Security)
+- Linux & Server Management
+- Network Monitoring & Logging (Elastic Stack, etc.)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=suckgitariuses&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suckgitariuses&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suckgitariuses&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suckgitariuses&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=suckgitariuses&theme=tokyonight&hide_border=true)
 
+</div>
 
+---
 
-
-
-
-
-
-
-<!---
-suckgitariuses/suckgitariuses is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⭐ *Feel free to explore my repositories and connect with me!*
